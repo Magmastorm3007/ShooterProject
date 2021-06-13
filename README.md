@@ -4,7 +4,7 @@ The updated source files for current version of shooter project thus far
 -Movement and shooting hard coded 
 -Complex Animation State simulated through anim graph
 -UI purely through Blueprint system
--Implementation of AI using Behaviour trees and BTTaska 
+-Implementation of AI using Behaviour trees and BTTasks
 
 To be covered in future commit-
 Updation of LastPlayerKnownLocation to work without any major bugs 
